@@ -1,2 +1,2 @@
-# cs2106
+# CS2106
 Introduction to Operating Systems

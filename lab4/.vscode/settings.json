@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mman.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "stat.h": "c",
+        "errno.h": "c",
+        "stdbool.h": "c",
+        "semaphore.h": "c"
+    }
+}
