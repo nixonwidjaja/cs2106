@@ -2,9 +2,6 @@
 
 ####################
 # Lab 1 Exercise 7
-# Name: Nicholas Jimmy Alden & Nixon Widjaja
-# Student No: A0244833A & A0236430N
-# Lab Group: B13 & B06
 ####################
 
 ####################
